@@ -1,0 +1,2 @@
+
+#define NETLINK_ECHO (MAX_LINKS - 1)
